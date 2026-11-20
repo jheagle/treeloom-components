@@ -1,5 +1,7 @@
 # treeloom-components
 
+[![tests](https://github.com/jheagle/treeloom-components/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/jheagle/treeloom-components/actions/workflows/tests.yml)
+
 A minimal component library on [treeloom](https://github.com/jheagle/treeloom): a set of base HTML element
 factories, plus richer interactive components built on top of them.
 
